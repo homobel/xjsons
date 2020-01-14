@@ -1,4 +1,4 @@
 xjsons
 ======
 
-javascript object mapper &amp; validator
+experimental javascript object mapper &amp; validator
